@@ -1,0 +1,24 @@
+{
+  "name": "constructors-hangman",
+  "version": "1.0.0",
+  "description": "constructors-hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derazmus/Constructors-Hangman.git"
+  },
+  "author": "denise erazmus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derazmus/Constructors-Hangman/issues"
+  },
+  "homepage": "https://github.com/derazmus/Constructors-Hangman#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "inquirer": "^4.0.0",
+    "prompt": "^1.0.0"
+  }
+}
